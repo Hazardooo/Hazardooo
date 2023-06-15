@@ -1,16 +1,21 @@
-### Hi there 👋
+# Hi there, I'm [Pavel](https://github.com/Hazardooo)! 👋
 
-<!--
-**Hazardooo/Hazardooo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Hazardooo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hazardooo)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hazardooo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-Here are some ideas to get you started:
+## About Me 💬
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a programmer with over a year of experience, specializing in Python and Golang development. I have a passion for creating efficient and scalable software solutions.
+
+## My favorite projects ⚡
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hazardooo&repo=Change-selection-color-in-win)](https://github.com/Hazardooo/Change-selection-color-in-win)
+
+
+## Contributing 👯
+
+I'm open to contributing to interesting projects. If you have any suggestions or ideas, feel free to reach out to me!
+
+## License
+
+This profile is licensed under the [MIT License](https://github.com/Hazardooo/Hazardooo/blob/main/LICENSE). Feel free to use and modify it according to the terms of this license.
