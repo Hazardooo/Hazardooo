@@ -18,4 +18,4 @@ I'm open to contributing to interesting projects. If you have any suggestions or
 
 ## License
 
-This profile is licensed under the [MIT License](https://github.com/Hazardooo/Hazardooo/blob/main/LICENSE). Feel free to use and modify it according to the terms of this license.
+This profile is licensed under the [MIT License](https://github.com/Hazardooo/Hazardooo/blob/main/LICENSE).
