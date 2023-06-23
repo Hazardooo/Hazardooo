@@ -1,6 +1,6 @@
 # Hi there, I'm [Pavel](https://github.com/Hazardooo)! 👋
 
-[![Hazardooo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hazardooo)](https://github.com/anuraghazra/github-readme-stats)
+[![Hazardooo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hazardooo)](https://github.com/Hazardooo)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hazardooo&layout=compact)](https://github.com/Hazardooo)
 
 ## About Me 💬
