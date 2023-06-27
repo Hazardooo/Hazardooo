@@ -9,7 +9,7 @@ I'm a programmer with over a year of experience, specializing in Python and Gola
 
 ## My favorite projects ⚡
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hazardooo&repo=Change-selection-color-in-win)](https://github.com/Hazardooo/Change-selection-color-in-win)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hazardooo&repo=Windows-Selection-Color-Changer)](https://github.com/Hazardooo/Change-selection-color-in-win)
 
 
 ## Contributing 👯
