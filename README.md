@@ -8,11 +8,11 @@
 <a href="#" title="Python"><img src="https://github.com/get-icon/geticon/raw/master/icons/python.svg" alt="Python" width="100px" height="100px"></a>
 <a href="#" title="Golang"><img src="https://github.com/get-icon/geticon/raw/master/icons/go.svg" alt="Golang" width="100px" height="100px"></a>
 <a href="#" title="Lua"><img src="https://github.com/get-icon/geticon/raw/master/icons/lua.svg" alt="Lua" width="100px" height="100px"></a>
-<a href="#" title="JavaScript"><img src="https://github.com/get-icon/geticon/raw/master/icons/java.svg" alt="JavaScript" width="100px" height="100px"></a>
 <a href="#" title="Java"><img src="https://github.com/get-icon/geticon/raw/master/icons/javascript.svg" alt="Java" width="100px" height="100px"></a>
-<a href="#" title="C"><img src="https://github.com/get-icon/geticon/raw/master/icons/c.svg" alt="C" width="100px" height="100px"></a>
-<a href="#" title="Cpp"><img src="https://github.com/get-icon/geticon/raw/master/icons/c-plusplus.svg" alt="Cpp" width="100px" height="100px"></a>
+<a href="#" title="JavaScript"><img src="https://github.com/get-icon/geticon/raw/master/icons/java.svg" alt="JavaScript" width="100px" height="100px"></a>
 <a href="#" title="C#"><img src="https://github.com/get-icon/geticon/raw/master/icons/c-sharp.svg" alt="C#" width="100px" height="100px"></a>
+<a href="#" title="Cpp"><img src="https://github.com/get-icon/geticon/raw/master/icons/c-plusplus.svg" alt="Cpp" width="100px" height="100px"></a>
+<a href="#" title="C"><img src="https://github.com/get-icon/geticon/raw/master/icons/c.svg" alt="C" width="100px" height="100px"></a>
 
 ## Frameworks
 <a href="#" title="Django"><img src="https://github.com/get-icon/geticon/raw/master/icons/django.svg" alt="Django" width="100px" height="100px"></a>
