@@ -16,6 +16,7 @@
 
 ## Frameworks
 <a href="#" title="Django"><img src="https://github.com/get-icon/geticon/raw/master/icons/django.svg" alt="Django" width="100px" height="100px"></a>
+<a href="#" title="Bootstrap"><img src="https://github.com/get-icon/geticon/raw/master/icons/bootstrap.svg" alt="Bootstrap" width="100px" height="100px"></a>
 
 ## DevOps
 <a href="#" title="Docker"><img src="https://github.com/get-icon/geticon/raw/master/icons/docker-icon.svg" alt="Docker" width="100px" height="100px"></a>
