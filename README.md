@@ -40,4 +40,4 @@ I'm open to contributing to interesting projects. If you have any suggestions or
 
 ## License
 
-This profile is licensed under the [MIT License](https://github.com/Hazardooo/Hazardooo/blob/main/LICENSE).
+This profile is licensed under the [Apache License](https://github.com/Hazardooo/Hazardooo/blob/main/LICENSE).
