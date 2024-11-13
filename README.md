@@ -29,15 +29,9 @@
 ## Hardware platforms
 <a href="#" title="Arduino"><img src="https://github.com/get-icon/geticon/raw/master/icons/arduino.svg" alt="Arduino" width="100px" height="100px"></a>
 
-
-## My favorite projects ⚡
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hazardooo&repo=Windows-Selection-Color-Changer)](https://github.com/Hazardooo/Change-selection-color-in-win)
-
-
 ## Contributing 👯
 
 I'm open to contributing to interesting projects. If you have any suggestions or ideas, feel free to reach out to me!
 
-## License
+## My favorite projects ⚡
 
-This profile is licensed under the [Apache License](https://github.com/Hazardooo/Hazardooo/blob/main/LICENSE).
