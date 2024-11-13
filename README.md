@@ -32,6 +32,3 @@
 ## Contributing 👯
 
 I'm open to contributing to interesting projects. If you have any suggestions or ideas, feel free to reach out to me!
-
-## My favorite projects ⚡
-
