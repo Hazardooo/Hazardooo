@@ -1,9 +1,4 @@
-# Hi there, I'm [Pavel](https://github.com/Hazardooo)! 👋
-[![Hazardooo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hazardooo)](https://github.com/Hazardooo)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hazardooo&layout=donut)](https://github.com/Hazardooo)
-
-# About Me 💬
+# My stack
 ## Programming languages
 <a href="#" title="Python"><img src="https://github.com/get-icon/geticon/raw/master/icons/python.svg" alt="Python" width="100px" height="100px"></a>
 <a href="#" title="Golang"><img src="https://github.com/get-icon/geticon/raw/master/icons/go.svg" alt="Golang" width="100px" height="100px"></a>
@@ -28,7 +23,3 @@
 
 ## Hardware platforms
 <a href="#" title="Arduino"><img src="https://github.com/get-icon/geticon/raw/master/icons/arduino.svg" alt="Arduino" width="100px" height="100px"></a>
-
-## Contributing 👯
-
-I'm open to contributing to interesting projects. If you have any suggestions or ideas, feel free to reach out to me!
